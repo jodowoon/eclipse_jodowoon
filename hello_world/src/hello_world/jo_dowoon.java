@@ -6,5 +6,6 @@ public class jo_dowoon {
 		System.out.println("hello world");
 		System.out.println("jodowoon");
 		System.out.println("20173253");
+		System.out.println("Computer Software Engineering");
 	}
 }
